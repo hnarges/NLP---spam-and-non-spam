@@ -109,14 +109,16 @@ Improving Language Models:
 Tokenization is key to training modern language models like BERT and GPT, allowing them to process language more efficiently.
 Model Performance Comparison: LSTM, RNN, and GRU
 Model Performance:
-Metric	LSTM	RNN	GRU
-Precision (Class 0)	0.81	0.80	0.86
-Precision (Class 1)	0.85	0.77	0.82
-Recall (Class 0)	0.86	0.75	0.81
-Recall (Class 1)	0.80	0.81	0.87
-F1-Score (Class 0)	0.83	0.78	0.83
-F1-Score (Class 1)	0.83	0.79	0.84
-Accuracy	0.83	0.78	0.84
+| Metric        | LSTM    | RNN     | GRU     |
+|---------------|---------|---------|---------|
+| **Precision (Class 0)** | 0.81    | 0.80    | 0.86    |
+| **Precision (Class 1)** | 0.85    | 0.77    | 0.82    |
+| **Recall (Class 0)**    | 0.86    | 0.75    | 0.81    |
+| **Recall (Class 1)**    | 0.80    | 0.81    | 0.87    |
+| **F1-Score (Class 0)**  | 0.83    | 0.78    | 0.83    |
+| **F1-Score (Class 1)**  | 0.83    | 0.79    | 0.84    |
+| **Accuracy**   | 0.83    | 0.78    | 0.84    |
+
 Key Insights:
 LSTM vs RNN:
 
